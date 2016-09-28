@@ -1,1 +1,21 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+
+<channel>
+<name>[B][COLOR deepskyblue]PRAIAS[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/4rgCV9w.png</thumbnail>
+<externallink>http://bit.ly/LISTAS_WEBCAMS_PRAIAS</externallink>
+<fanart>http://i.imgur.com/bj8ttNg.jpg</fanart>
+<info>Praias em direto</info>
+</channel>
+
+<channel>
+<name>[B][COLOR deepskyblue]CIDADES[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/KePtb77.png</thumbnail>
+<externallink>http://bit.ly/2c3VDAs</externallink>
+<fanart>http://i.imgur.com/0pFNbhc.jpg</fanart>
+<info>Cidades em direto</info>
+</channel>
+
+</channels>
