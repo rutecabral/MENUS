@@ -1,1 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]PORTUGAL[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/5cM16G0.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais da televisao Portuguesa</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]PORTUGAL[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/5cM16G0.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais da televisao Portuguesa</info>
+<externallink>http://bit.ly/TV_PT</externallink>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]ALEMANHA[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/oRQ7h7d.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV alemaes</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]ALEMANHA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/oRQ7h7d.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV alemaes</info>
+<externallink>http://bit.ly/TV_DE</externallink>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]BRASIL[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/OhbAhcZ.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV do Brasil</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]BRASIL[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/OhbAhcZ.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV do Brasil</info>
+<externallink>http://bit.ly/TV_BR</externallink>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]ESPANHA[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/xYc7NIA.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV espanhois</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]ESPANHA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/xYc7NIA.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV espanhois</info>
+<externallink>http://bit.ly/TV_ES</externallink>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]FRANCA[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/Y8TTqAm.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV franceses</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]FRANCA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/Y8TTqAm.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV franceses</info>
+<externallink>http://bit.ly/TV_FR</externallink>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]ITALIA[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/i7PS9i4.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV italianos</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]ITALIA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/i7PS9i4.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV italianos</info>
+<externallink>http://bit.ly/TV_IT</externallink>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]INGLATERRA[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/p8PuTw2.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV ingleses</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]INGLATERRA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/p8PuTw2.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV ingleses</info>
+<externallink>http://bit.ly/TV_UK</externallink>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]EUA[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/d3Jhv5k.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV dos Estados Unidos</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]EUA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/d3Jhv5k.png</thumbnail>
+<fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+<info>Canais de TV dos Estados Unidos</info>
+<externallink>http://bit.ly/TV_US</externallink>
+</item>
+
+
+<channels>
+<channel>
+"<name>[B][COLOR deepskyblue]ARENAVISION 
+[B][COLOR red]plugin PLEXUS[/B][/COLOR]</name>"
+<thumbnail>http://i.imgur.com/WksKIx4.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+<info>Canais Arenavision & Sopcast  (necessita do Plexus)</info>
+</subitem>
+</item>
+
+<item>
+"<title>[B][COLOR deepskyblue]ARENAVISION 
+[B][COLOR red]plugin PLEXUS[/B][/COLOR]</title>"
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/WksKIx4.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+<info>Canais Arenavision & Sopcast  (necessita do Plexus)</info>
+<externallink>http://bit.ly/TV_ARENAVISION</externallink>
+</item>
