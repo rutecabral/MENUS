@@ -118,14 +118,14 @@
 <jsonrpc>plugin://plugin.video.AresFootBall/</jsonrpc>
 </item>
 
-<item>
-<title>[B][COLOR deepskyblue]MOTORS REPLAYS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/Xvv6wO8.png</thumbnail>
-<fanart>http://i.imgur.com/i6UJCNC.jpg</fanart>
-<info>Espaco dedicado a relays de desportos motorizados</info>
-<jsonrpc>plugin://plugin.video.motorreplays/</jsonrpc>
-</item>
+
+
+
+
+
+
+
+
 
 <item>
 <title>[B][COLOR deepskyblue]NBA LIVE & REPLAYS[/B][/COLOR]</title>
@@ -145,11 +145,11 @@
 <jsonrpc>plugin://plugin.video.wwe-on-demand/</jsonrpc>
 </item>
 
-<item>
-<title>[B][COLOR deepskyblue]UFC LIVE & REPLAYS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/whINVHe.png</thumbnail>
-<fanart>http://i.imgur.com/JzLZKpJ.jpg</fanart>
-<info>Espaco dedicado a UFC</info>
-<jsonrpc>plugin://plugin.video.ufc-finest/</jsonrpc>
-</item>
+
+
+
+
+
+
+
+
