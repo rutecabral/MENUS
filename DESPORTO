@@ -64,48 +64,92 @@
 <externallink>http://bit.ly/REPLAYS_SPORTING_CP</externallink>
 </item>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>[B][COLOR deepskyblue]LIGA NOS Replays[/B][/COLOR]</title>
+<title>[B][COLOR deepskyblue]FUTEBOL REPLAYS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/5wdyJqk.png</thumbnail>
-<fanart>http://www.hdwallpapers.in/walls/uefa_euro_2016_france-wide.jpg</fanart>
-<info>Espaco dedicado a Replays da Liga NOS</info>
-<externallink>http://bit.ly/REPLAYS_LIGA_NOS</externallink>
+<thumbnail>http://i.imgur.com/RNB3PvH.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+<info>Espaco dedicado a relays de jogos de futebol</info>
+<jsonrpc>plugin://plugin.video.AresFootBall/</jsonrpc>
 </item>
 
 <item>
-<title>[B][COLOR deepskyblue]LIGA CAMPEOES Replays[/B][/COLOR]</title>
+<title>[B][COLOR deepskyblue]MOTORS REPLAYS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/Loli9mx.png</thumbnail>
-<fanart>http://i.imgur.com/qo6j0oM.jpg</fanart>
-<info>Espaco dedicado a Replays de jogos da Liga dos Campeoes</info>
-<externallink>http://bit.ly/REPLAYS_UCL</externallink>
+<thumbnail>http://i.imgur.com/Xvv6wO8.png</thumbnail>
+<fanart>http://i.imgur.com/i6UJCNC.jpg</fanart>
+<info>Espaco dedicado a relays de desportos motorizados</info>
+<jsonrpc>plugin://plugin.video.motorreplays/</jsonrpc>
 </item>
 
 <item>
-<title>[B][COLOR deepskyblue]LIGA EUROPA Replays[/B][/COLOR]</title>
+<title>[B][COLOR deepskyblue]NBA LIVE & REPLAYS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/7BunC4d.png</thumbnail>
-<fanart>http://i.imgur.com/7BunC4d.png</fanart>
-<info>Espaco dedicado a Replays de jogos da Liga Europa</info>
-<externallink>http://bit.ly/REPLAYS_UEL</externallink>
+<thumbnail>http://i.imgur.com/6Akku14.png</thumbnail>
+<fanart>http://i.imgur.com/IRm7L7w.jpg</fanart>
+<info>Espaco dedicado a NBA</info>
+<jsonrpc>plugin://plugin.video.nbafullgames/</jsonrpc>
 </item>
 
 <item>
-<title>[B][COLOR deepskyblue]MUNDIAL 2018 Replays[/B][/COLOR]</title>
+<title>[B][COLOR deepskyblue]WWE LIVE & REPLAYS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/v0ClUAc.png</thumbnail>
-<fanart>http://i.imgur.com/pfUqKuX.jpg</fanart>
-<info>Espaco dedicado a Replays do Mundial 2018</info>
-<externallink>http://bit.ly/REPLAYS_MUNDIAL_2018</externallink>
+<thumbnail>http://i.imgur.com/OGFiL0M.png</thumbnail>
+<fanart>http://i.imgur.com/Blz55vY.jpg</fanart>
+<info>Espaco dedicado a WWE</info>
+<jsonrpc>plugin://plugin.video.wwe-on-demand/</jsonrpc>
 </item>
 
 <item>
-<title>[B][COLOR deepskyblue]EURO 2016 Replays[/B][/COLOR]</title>
+<title>[B][COLOR deepskyblue]UFC LIVE & REPLAYS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/ZRsQe42.png</thumbnail>
-<fanart>http://www.hdwallpapers.in/walls/uefa_euro_2016_france-wide.jpg</fanart>
-<info>Espaco dedicado a Replays do Euro 2016</info>
-<externallink>http://bit.ly/REPLAYS_EURO_2016</externallink>
+<thumbnail>http://i.imgur.com/whINVHe.png</thumbnail>
+<fanart>http://i.imgur.com/JzLZKpJ.jpg</fanart>
+<info>Espaco dedicado a UFC</info>
+<jsonrpc>plugin://plugin.video.ufc-finest/</jsonrpc>
 </item>
-
