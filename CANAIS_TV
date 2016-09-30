@@ -179,5 +179,24 @@
 <fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
 <info>Canais Arenavision & Sopcast  (necessita do Plexus)</info>
 <externallink>http://bit.ly/TV_ARENAVISION</externallink>
-<parentalblock>true</parentalblock>
+</item>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]CANAIS +18[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/EFKoCYE.png</thumbnail>
+<fanart>http://i.imgur.com/3vQgWVa.jpg</fanart>
+<info>Canais para Adultos</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]CANAIS +18[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/EFKoCYE.png</thumbnail>
+<fanart>http://i.imgur.com/3vQgWVa.jpg</fanart>
+<info>Canais para Adultos</info>
+<externallink>http://bit.ly/LISTA_CANAIS_ADULTOS</externallink>
 </item>
