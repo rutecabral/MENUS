@@ -136,14 +136,14 @@
 <jsonrpc>plugin://plugin.video.nbafullgames/</jsonrpc>
 </item>
 
-<item>
-<title>[B][COLOR deepskyblue]WWE LIVE & REPLAYS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/OGFiL0M.png</thumbnail>
-<fanart>http://i.imgur.com/Blz55vY.jpg</fanart>
-<info>Espaco dedicado a WWE</info>
-<jsonrpc>plugin://plugin.video.wwe-on-demand/</jsonrpc>
-</item>
+
+
+
+
+
+
+
+
 
 
 
