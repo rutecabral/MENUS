@@ -118,6 +118,35 @@
 <jsonrpc>plugin://plugin.video.AresFootBall/</jsonrpc>
 </item>
 
+<item>
+<title>[B][COLOR green]FORMULA 1 Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/2mBPxAN.png</thumbnail>
+<fanart>http://i.imgur.com/vWQd0dI.jpg</fanart>
+<info>Espaco dedicado a replays de Grandes Premios de Formula 1</info>
+<externallink>http://bit.ly/REPLAYS_FORMULA_1</externallink>
+</item>
+
+<item>
+<title>[B][COLOR green]MOTOGP Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/xbfShiW.png</thumbnail>
+<fanart>http://i.imgur.com/URsKgaV.jpg</fanart>
+<info>Espaco dedicado a replays de Grandes Premios de Formula 1</info>
+<externallink>http://bit.ly/REPLAYS_MOTO_GP</externallink>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -153,3 +182,88 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]DESPORTOS MOTORIZADOS[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/Xvv6wO8.png</thumbnail>
+<fanart>http://i.imgur.com/vWQd0dI.jpg</fanart>
+<info>Espaco destinado a transmissoes de desportos motorizados</info>
+</subitem>
+</item>
+
+
+
+<link>[B][COLOR deepskyblue]DESPORTOS MOTORIZADOS[/B][/COLOR]</link>
+<thumbnail>http://i.imgur.com/Xvv6wO8.png</thumbnail>
+<fanart>http://i.imgur.com/vWQd0dI.jpg</fanart>
+<info>Espaco destinado a transmissoes de desportos motorizados</info>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvTUVOVVNfREVTUF9NT1RPUklaQURPUw</externallink>
+</item>
