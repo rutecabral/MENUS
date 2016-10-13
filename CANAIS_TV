@@ -163,8 +163,7 @@
 
 <channels>
 <channel>
-"<name>[B][COLOR deepskyblue]ARENAVISION 
-[B][COLOR red]plugin PLEXUS[/B][/COLOR]</name>"
+<name>[B][COLOR deepskyblue]ARENAVISION [B][COLOR red]Plugin PLEXUS[/B][/COLOR][/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/WksKIx4.png</thumbnail>
 <fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
 <info>Canais Arenavision & Sopcast  (necessita do Plexus)</info>
@@ -172,8 +171,7 @@
 </item>
 
 <item>
-"<title>[B][COLOR deepskyblue]ARENAVISION 
-[B][COLOR red]plugin PLEXUS[/B][/COLOR]</title>"
+<title>[B][COLOR deepskyblue]ARENAVISION [B][COLOR red]Plugin PLEXUS[/B][/COLOR][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/WksKIx4.png</thumbnail>
 <fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
@@ -181,6 +179,24 @@
 <externallink>http://bit.ly/TV_ARENAVISION</externallink>
 </item>
 
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]CANAIS MUSICA [B][COLOR red]Project myIPTVChannels[/B][/COLOR][/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/BKgzpJf.png</thumbnail>
+<fanart>http://i.imgur.com/avsEVQ3.jpg</fanart>
+<info>Canais de Musica do projecto myIPTVChannels</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]CANAIS MUSICA [B][COLOR red]Project myIPTVChannels[/B][/COLOR][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/BKgzpJf.png</thumbnail>
+<fanart>http://i.imgur.com/avsEVQ3.jpg</fanart>
+<info>Canais de Musica do projecto myIPTVChannels</info>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/music.m3u</externallink>
+</item>
 
 
 <channels>
