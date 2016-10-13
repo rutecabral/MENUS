@@ -1,43 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
 <title>[B][COLOR blue]FC PORTO Replays[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/35beWzd.png</thumbnail>
@@ -64,53 +26,8 @@
 <externallink>http://bit.ly/REPLAYS_SPORTING_CP</externallink>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>[B][COLOR deepskyblue]FUTEBOL REPLAYS[/B][/COLOR]</title>
+<title>[B][COLOR deepskyblue]ADD-ON ARES FOOTBAL (Replays)[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/RNB3PvH.png</thumbnail>
 <fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
@@ -118,23 +35,23 @@
 <jsonrpc>plugin://plugin.video.AresFootBall/</jsonrpc>
 </item>
 
+<item>
+<title>[B][COLOR deepskyblue]ADD-ON ZemTV-Shani (365)[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/UMuAOgQ.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+<info>Add-on com Canais Desporto Live e Agenda</info>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+</item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<item>
+<title>[B][COLOR deepskyblue]ADD-ON NBA FULL GAMES (Live & Replays)[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/LMp3CJg.png</thumbnail>
+<fanart>http://i.imgur.com/IRm7L7w.jpg</fanart>
+<info>Espaco dedicado a NBA</info>
+<jsonrpc>plugin://plugin.video.nbafullgames/</jsonrpc>
+</item>
 
 <item>
 <title>[B][COLOR deepskyblue]CANAL YOUTUBE[/B][/COLOR]</title>
@@ -143,33 +60,4 @@
 <fanart>http://i.imgur.com/FfdwcM6.jpg</fanart>
 <info>Canais youtube</info>
 <externallink>http://bit.ly/CANAL_YOUTUBE_TEAMBLUE</externallink>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[B][COLOR deepskyblue]NBA LIVE & REPLAYS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/6Akku14.png</thumbnail>
-<fanart>http://i.imgur.com/IRm7L7w.jpg</fanart>
-<info>Espaco dedicado a NBA</info>
-<jsonrpc>plugin://plugin.video.nbafullgames/</jsonrpc>
 </item>
