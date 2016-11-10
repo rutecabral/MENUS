@@ -184,6 +184,25 @@
 
 <channels>
 <channel>
+<name>[B][COLOR deepskyblue]MUSIC SHOWS</name>
+<thumbnail>http://i.imgur.com/gDnhHDK.png</thumbnail>
+<fanart>http://i.imgur.com/avsEVQ3.jpg</fanart>
+<info>Concertos</info>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]MUSIC SHOWS</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/gDnhHDK.png</thumbnail>
+<fanart>http://i.imgur.com/avsEVQ3.jpg</fanart>
+<info>Music Shows</info>
+<externallink>http://bit.ly/TEAMBLUE_MUSIC_SHOWS</externallink>
+</item>
+
+
+<channels>
+<channel>
 "<name>[B][COLOR deepskyblue]CANAIS MUSICA
 [B][COLOR red]myIPTVChannels[/B][/COLOR]</name>"
 <thumbnail>http://i.imgur.com/BKgzpJf.png</thumbnail>
