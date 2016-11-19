@@ -1,1 +1,102 @@
-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
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>[B][COLOR blue]FC PORTO Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/35beWzd.png</thumbnail>
+<fanart>http://i.imgur.com/n2ySFe2.jpg</fanart>
+<info>Espaco dedicado a Replays de jogos do FC PORTO</info>
+<externallink>http://bit.ly/REPLAYS_FC_PORTO</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]SL BENFICA Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/Svsawl9.png</thumbnail>
+<fanart>http://i.imgur.com/PmRwR9z.jpg</fanart>
+<info>Espaco dedicado a Replays de jogos do SL BENFICA</info>
+<externallink>http://bit.ly/REPLAYS_SL_BENFICA</externallink>
+</item>
+
+<item>
+<title>[B][COLOR green]SPORTING CP Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/JIq4trh.png</thumbnail>
+<fanart>http://i.imgur.com/qo6j0oM.jpg</fanart>
+<info>Espaco dedicado a Replays de jogos do SPORTING CP</info>
+<externallink>http://bit.ly/REPLAYS_SPORTING_CP</externallink>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]LIGA NOS Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/5wdyJqk.png</thumbnail>
+<fanart>http://i.imgur.com/Ms72Ogo.jpg</fanart>
+<info>Espaco dedicado a Replays da Liga NOS</info>
+<externallink>http://bit.ly/REPLAYS_LIGA_NOS</externallink>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]MUNDIAL 2018 Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/v0ClUAc.png</thumbnail>
+<fanart>http://i.imgur.com/pfUqKuX.jpg</fanart>
+<info>Espaco dedicado a Replays do Mundial 2018</info>
+<externallink>http://bit.ly/REPLAYS_MUNDIAL_2018</externallink>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]EURO 2016 Replays[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/ZRsQe42.png</thumbnail>
+<fanart>http://www.hdwallpapers.in/walls/uefa_euro_2016_france-wide.jpg</fanart>
+<info>Espaco dedicado a Replays do Euro 2016</info>
+<externallink>http://bit.ly/REPLAYS_EURO_2016</externallink>
+</item>
+
+<item>
+"<title>[B][COLOR deepskyblue]ADD-ON
+[B][COLOR red] ARES FOOTBAL[/B][/COLOR]</title>"
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/gYcIacE.png</thumbnail>
+<fanart>http://i.imgur.com/SxqUJA3.jpg</fanart>
+<info>Espaco dedicado a relays de jogos de futebol</info>
+<jsonrpc>plugin://plugin.video.AresFootBall/</jsonrpc>
+</item>
+
+<item>
+"<title>[B][COLOR deepskyblue]ADD-ON
+[B][COLOR red] ZemTV-Shani (365)[/B][/COLOR]</title>"
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/UMuAOgQ.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+<info>Add-on com Canais Desporto Live e Agenda</info>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+</item>
+
+<item>
+"<title>[B][COLOR deepskyblue]ADD-ON
+[B][COLOR red]NBA FULL GAMES[/B][/COLOR]</title>"
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/LMp3CJg.png</thumbnail>
+<fanart>http://i.imgur.com/IRm7L7w.jpg</fanart>
+<info>Espaco dedicado a NBA</info>
+<jsonrpc>plugin://plugin.video.nbafullgames/</jsonrpc>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]PROGRAMAS  DESPORTIVOS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/BAZEhnQ.png</thumbnail>
+<fanart>http://i.imgur.com/HiYIBZi.jpg</fanart>
+<info>Programas desportivos de debate</info>
+<externallink>http://bit.ly/LISTA_DEBATES_DESPORTIVOS$$LSProEncKey=TeamBlueListas$$</externallink>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]CANAL YOUTUBE[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/Zd1Y1Te.png</thumbnail>
+<fanart>http://i.imgur.com/FfdwcM6.jpg</fanart>
+<info>Canais youtube</info>
+<externallink>http://bit.ly/CANAL_YOUTUBE_TEAMBLUE</externallink>
+</item>
